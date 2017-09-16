@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contactos on Limpiezas y desatascos Valencia</title>
+    <link>http://www.limpiezasydesatascosvalencia.es/contacto/index.xml</link>
+    <description>Recent content in Contactos on Limpiezas y desatascos Valencia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2017 18:00:32 +0200</lastBuildDate>
+    <atom:link href="http://www.limpiezasydesatascosvalencia.es/contacto/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contacto</title>
+      <link>http://www.limpiezasydesatascosvalencia.es/contacto/contacto/</link>
+      <pubDate>Sun, 03 Sep 2017 18:00:32 +0200</pubDate>
+      
+      <guid>http://www.limpiezasydesatascosvalencia.es/contacto/contacto/</guid>
+      <description>&lt;p&gt;Aqui irá información de contacto.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+languageCode = "en-us"
+title = "Lyd Valencia"
+baseurl = "http://www.limpiezasydesatascosvalencia.es"
+theme = "landing-page-hugo"
+
+[params]
+description = "Limpiezas y Desatascos en Valencia. 24 horas."
+
+[[params.social]]
+    title = "email: contacto@lydvalencia.es"
+    icon = "envelope-o"
+    url = "mailto:contacto@lydvalencia.es"
+
+[[params.social]]
+    title = "telefono: 620 834 846"
+    icon = "phone"
+    url = "tel:+34620834846"
