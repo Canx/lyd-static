@@ -1,17 +1,20 @@
 languageCode = "es-es"
 title = "Desatascos Valencia – tuberias y fosas sépticas | Lyd Valencia"
-baseurl = "http://www.limpiezasydesatascosvalencia.es"
+baseurl = "www.limpiezasydesatascosvalencia.es"
 theme = "landing-page-hugo"
 
 [params]
-description = "Limpiezas y Desatascos en Valencia. 24 horas."
+description = "Limpiezas y desatascos en Valencia y alrededores. 24 horas."
+custom_css = ["css/local.css"]
+header = "Limpiezas y desatascos Valencia"
+title = "Limpiezas y desatascos Valencia"
 
 [[params.social]]
-    title = "email: contacto@lydvalencia.es"
+    title = "contacto@lydvalencia.es"
     icon = "envelope-o"
     url = "mailto:contacto@lydvalencia.es"
 
 [[params.social]]
-    title = "telefono: 620 834 846"
+    title = "644 714 500"
     icon = "phone"
-    url = "tel:+34620834846"
+    url = "tel:+34644714500"
