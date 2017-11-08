@@ -9,12 +9,19 @@ custom_css = ["css/local.css"]
 header = "Limpiezas y desatascos Valencia"
 title = "Limpiezas y desatascos Valencia"
 
-[[params.social]]
-    title = "contacto@lydvalencia.es"
-    icon = "envelope-o"
-    url = "mailto:contacto@lydvalencia.es"
 
 [[params.social]]
     title = "644 714 500"
     icon = "phone"
     url = "tel:+34644714500"
+
+[[params.social]]
+    title = "Whatsapp"
+    icon = "whatsapp"
+    url = "https://api.whatsapp.com/send?phone=34644714500"
+[[params.social]]
+    title = "contacto@lydvalencia.es"
+    icon = "envelope-o"
+    url = "mailto:contacto@lydvalencia.es"
+
+
