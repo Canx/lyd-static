@@ -1,6 +1,6 @@
 ---
 Title: desatascos
-Img: desatascos.png
+Img: desatascos.jpg
 Category: Services
 Draft: false
 ---

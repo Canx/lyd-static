@@ -1,6 +1,6 @@
 ---
 Title: camara robotizada
-Img: camara.png
+Img: camara.jpg
 Category: services
 Draft: false
 ---
