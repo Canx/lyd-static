@@ -1,6 +1,6 @@
 ---
 Title: limpiezas industriales
-Img: industrial.png
+#Img: industrial.png
 Category: services
 Draft: false
 ---

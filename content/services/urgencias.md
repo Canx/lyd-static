@@ -1,6 +1,6 @@
 ---
 Title: Urgencias 24h
-Img: urgencias.jpg
+#Img: urgencias.jpg
 Category: services
 Draft: false
 ---

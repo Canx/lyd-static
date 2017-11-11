@@ -1,6 +1,6 @@
 ---
 Title: Extracciones
-Img: extracciones.jpg
+#Img: extracciones.jpg
 Category: services
 Draft: false
 ---
