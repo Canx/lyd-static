@@ -1,7 +1,7 @@
 <section id="services">
 
 <!-- Page Content -->
- {{ range $index, $element :=  .Data.Pages }}{{ if or (eq .Section "services") (eq .Section "post") }}
+ {{ range $index, $element :=  .Data.Pages.ByParam "position" }}{{ if or (eq .Section "services") (eq .Section "post") }}
     {{ if modBool $index 2 }}
     <div class="content-section-a">
 
@@ -11,7 +11,7 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ .Title }}</h2>
+                    <h1 class="section-heading">{{ .Title }}</h1>
                     {{ .Content }}
                 </div>
                 {{ with .Params.img }}
@@ -36,7 +36,7 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ .Title }}</h2>
+                    <h1 class="section-heading">{{ .Title }}</h1>
                     {{ .Content }}
                 </div>
                 {{ with .Params.img }}
