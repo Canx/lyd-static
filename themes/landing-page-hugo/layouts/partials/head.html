@@ -19,7 +19,7 @@
     
     <!-- Local CSS -->
     {{ range .Site.Params.custom_css }}
-        <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+        <link rel="stylesheet" href="/{{ . }}">
     {{ end }}
 
     <!-- Custom Fonts -->

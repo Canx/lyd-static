@@ -1,6 +1,6 @@
 ---
 Title: Extracciones
-#Img: extracciones.jpg
+Img: extracciones.svg
 Category: services
 Draft: false
 Position: 3

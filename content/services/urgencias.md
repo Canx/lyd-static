@@ -1,6 +1,6 @@
 ---
 Title: Urgencias 24h
-#Img: urgencias.jpg
+Img: 24horas.svg
 Category: services
 Draft: false
 Position: 2
