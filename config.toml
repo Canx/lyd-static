@@ -8,7 +8,7 @@ disableHugoGeneratorInject = true
 description = "Limpiezas y desatascos en Valencia y alrededores. 24 horas."
 alert = "Servicios disponibles a partir de diciembre de 2017!"
 custom_css = ["css/local.css"]
-header = "Limpiezas y desatascos Valencia"
+header = "LYD Valencia"
 title = "Limpiezas y desatascos Valencia"
 
 

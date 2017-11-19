@@ -6,4 +6,4 @@ Draft: false
 Position: 2
 ---
 
-En alerta permanente a su disposición. 365 días al año y 24 horas al día.
+Ofrecemos nuestros servicios de emergencia de forma permanente las 24 horas del día los 365 días del año. Estamos a su disposición de forma continua en el 644 714 500. Realizamos tanto desatascos urgentes, como vaciado de fosas sépticas.
