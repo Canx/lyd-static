@@ -1,1 +1,3 @@
-ExpiresByType image/svg+xml "access 1 week"
+ExpiresByType image/svg+xml "access 1 day"
+ExpiresByType image/jpeg "access 1 day"
+
