@@ -1,3 +1,11 @@
-ExpiresByType image/svg+xml "access 1 day"
-ExpiresByType image/jpeg "access 1 day"
+<IfModule mod_expires.c>
+    ExpiresActive on
+
+    ExpiresByType text/css "access plus 1 days"
+    ExpiresByType image/svg+xml "access plus 1 days"
+    ExpiresByType image/jpeg "access plus 1 days"
+    ExpiresByType text/javascript "access plus 1 week"
+    ExpiresByType application/x-javascript "access plus 1 week"
+    ExpiresByType image/x-icon "access plus 1 week"
+</IfModule>
 
