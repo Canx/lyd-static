@@ -12,11 +12,10 @@ header = "LYD Valencia"
 title = "Limpiezas y desatascos Valencia"
 googleAnalytics = "UA-110224542-1"
 
-
 [[params.social]]
     title = "644 714 500"
     icon = "phone"
-    url = "tel:+34644714500"
+    url = "tel: +34644714500"
 
 [[params.social]]
     title = "Whatsapp"

@@ -14,17 +14,11 @@
 				</ul>
                      	</div>
 		</div><!-- /.row -->
-		<div style="margin-top:10px">
-	                    <form method="POST" action="https://formspree.io/lydvalencia@gmail.com">
-			    <input type="hidden" name="_language" value="es" />
-		            <div class="form-group">
-		                 <input class="form-control" type="email" name="email" placeholder="Escribe tu email">
-		            </div>
-		            <div class="form-group">
-			         <textarea class="form-control" name="message" placeholder="Dinos tu problema y un número de contacto"></textarea>
-		            </div>
-	                    <button type="submit" class="btn btn-primary">Enviar</button>
-		            </form>
+		<div class="row" style="margin-top:20px">
+		    <div class="col-lg-6"></div>
+		    <div class="col-lg-6">
+		    {{ partial "form.html" . }} 
+		    </div>
 	        </div>
 	</div><!-- /.container -->
 </div><!-- /.contact -->
