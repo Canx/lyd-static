@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+p {
+    text-align: justify;
+}
+
 .alert {
     color: #ff4040;
 }
@@ -35,17 +39,22 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/camion-cuba-desatascos.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
+    padding-top: 5%;
     padding-bottom: 20%;
 }
 
-.intro-message > h1 {
+.intro-message-background {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: rgba(0,0,0,0.6);
+}
+.intro-message-background > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;

@@ -9,7 +9,7 @@ description = "Limpiezas y desatascos de tuberías en Valencia y alrededores. 24
 alert = "Servicios disponibles a partir de diciembre de 2017!"
 custom_css = ["css/local.css"]
 header = "LYD Valencia"
-title = "Limpiezas y desatascos Valencia"
+title = "Limpiezas y Desatascos Valencia"
 googleAnalytics = "UA-110224542-1"
 
 [[params.social]]

@@ -41,9 +41,11 @@
 		<div class="row">
 		    <div class="col-lg-12">
 			<div class="intro-message">
-			    <div class="logo"></div>
-			    <h1>{{ .Site.Params.Title }}</h1>
-			    <h3>{{ .Site.Params.Description }}</h3>
+			    <div class="intro-message-background">
+			        <div class="logo"></div>
+			        <h1>{{ .Site.Params.Title }}</h1>
+			        <h3>{{ .Site.Params.Description }}</h3>
+			    </div>
 			    <hr class="intro-divider">
 			    {{ if isset .Site.Params "social" }}
 			    <ul class="list-inline intro-social-buttons">
