@@ -5,3 +5,9 @@
 .list-inline > li {
     padding-top: 10px;
 }
+
+.vcenter {
+   display: inline-block;
+   vertical-align: middle;
+   float: none;
+}

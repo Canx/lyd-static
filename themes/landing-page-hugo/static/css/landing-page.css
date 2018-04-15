@@ -71,11 +71,11 @@ p {
 }
 
 @media(max-width:767px) {
-    .intro-message {
+    .intro-message-background {
         padding-bottom: 15%;
     }
 
-    .intro-message > h1 {
+    .intro-message-background > h1 {
         font-size: 3em;
     }
 
@@ -92,6 +92,10 @@ p {
     .intro-divider {
         width: 100%;
     }
+}
+
+.vcenter {
+
 }
 
 .network-name {

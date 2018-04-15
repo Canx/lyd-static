@@ -1,15 +1,15 @@
 languageCode = "es-es"
 title = "Desatascos Valencia – tuberias y fosas sépticas | Lyd Valencia"
-baseurl = "www.limpiezasydesatascosvalencia.es"
+baseurl = "https://www.limpiezasydesatascosvalencia.es"
 theme = "landing-page-hugo"
 disableHugoGeneratorInject = true
 
 [params]
-description = "Limpiezas y desatascos de tuberías en Valencia y alrededores. 24 horas."
+description = "Desatasco de tuberías y limpieza de fosas. Valencia y alrededores. 24 horas."
 alert = "Servicios disponibles a partir de diciembre de 2017!"
 custom_css = ["css/local.css"]
 header = "LYD Valencia"
-title = "Limpiezas y Desatascos Valencia"
+title = "Limpiezas y Desatascos Valencia S.L."
 googleAnalytics = "UA-110224542-1"
 
 [[params.social]]
